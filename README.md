@@ -1,2 +1,2 @@
 # MoonRobot
-Homework for the Robot on the Moon
+Repo for Robot on Moon tests
